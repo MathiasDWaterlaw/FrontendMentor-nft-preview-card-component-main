@@ -105,7 +105,7 @@ main{
     background-color: var(--card-bg);
     width: 330px;
     padding: 2.5rem;
-    margin: auto;
+    margin: 60px auto;
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.10) 0px 15px 20px, rgba(0, 0, 0, 0.23) 0px 20px 25px;
 }
@@ -121,7 +121,7 @@ main{
 .over{
   position: absolute;
   z-index: 1;
-  top: 93px;
+  top: 15.5vh;
   background-color: var(--cyan-2);
   border-radius: 10px;
   opacity: 0;
